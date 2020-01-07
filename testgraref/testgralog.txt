@@ -1,0 +1,32 @@
+Problem: Token 12 not covered in testgrain\Erlinde\IAA_Erlinde\VanKampen_laura62_u00000001670.xml
+Problem: Token 14 not covered in testgrain\Van Celine\10-39 (1CP) (uit map new-selection.zzip)\FL18\VanKampen_laura15_u00000000091.xml
+Problem: Token 10 not covered in testgrain\Van Celine\86-90 (1CP)\89\VanKampen_uttfiles2_laura62_u000241.xml
+Problem: Token 18 not covered in testgrain\Van Celine\86-90 (1CP)\89\VanKampen_uttfiles2_laura62_u000242.xml
+Antecedent for index 1 lacking in <Element 'node' at 0x00000140B8EDEB38>
+Antecedent for index 1 lacking in <Element 'node' at 0x00000140B8EDEB88>
+Problem: Token 1 not covered in testgrain\Van Pieter\1PH (161-190)\179\VanKampen_uttfiles2_laura39_u000825.xml
+Problem: Token 2 not covered in testgrain\Van Pieter\1PH (161-190)\179\VanKampen_uttfiles2_laura39_u000825.xml
+Problem: Token 3 not covered in testgrain\Van Pieter\1PH (161-190)\179\VanKampen_uttfiles2_laura39_u000825.xml
+Problem: Token 4 not covered in testgrain\Van Pieter\1PH (161-190)\179\VanKampen_uttfiles2_laura39_u000825.xml
+Problem: Token 5 not covered in testgrain\Van Pieter\1PH (161-190)\179\VanKampen_uttfiles2_laura39_u000825.xml
+Problem: Token 7 not covered in testgrain\Van Pieter\1PH (161-190)\179\VanKampen_uttfiles2_laura39_u000825.xml
+Antecedent for index 1 lacking in <Element 'node' at 0x00000140B8EDE368>
+Antecedent for index 1 lacking in <Element 'node' at 0x00000140B8EDE278>
+Antecedent for index 2 lacking in <Element 'node' at 0x00000140B8EDE9A8>
+Antecedent for index 1 lacking in <Element 'node' at 0x00000140B8EE2C78>
+Problem: Token 21 not covered in testgrain\Van Pieter\1PH (161-190)\189\VanKampen_uttfiles2_laura20_u000176.xml
+Problem: Token 22 not covered in testgrain\Van Pieter\1PH (161-190)\189\VanKampen_uttfiles2_laura20_u000176.xml
+Problem: Token 23 not covered in testgrain\Van Pieter\1PH (161-190)\189\VanKampen_uttfiles2_laura20_u000176.xml
+Problem: Token 24 not covered in testgrain\Van Pieter\1PH (161-190)\189\VanKampen_uttfiles2_laura20_u000176.xml
+Problem: Token 25 not covered in testgrain\Van Pieter\1PH (161-190)\189\VanKampen_uttfiles2_laura20_u000176.xml
+Problem: Token 26 not covered in testgrain\Van Pieter\1PH (161-190)\189\VanKampen_uttfiles2_laura20_u000176.xml
+Problem: Token 27 not covered in testgrain\Van Pieter\1PH (161-190)\189\VanKampen_uttfiles2_laura20_u000176.xml
+Problem: Token 4 not covered in testgrain\Van Pieter\1PH (161-190)\189\VanKampen_uttfiles2_laura20_u000232.xml
+Problem: Token 4 not covered in testgrain\Van Pieter\1PH (SW) 41-70\61\VanKampen_uttfiles2_laura73_u000642.xml
+Antecedent for index 1 lacking in <Element 'node' at 0x00000140B8EE2BD8>
+Problem: Token 2 not covered in testgrain\Van Pieter\1PH (SW) 41-70\66\VanKampen_uttfiles2_laura38_u000379.xml
+Problem: Token 5 not covered in testgrain\Van Pieter\1PH (SW) 41-70\66\VanKampen_uttfiles2_laura38_u000379.xml
+Problem: Token 6 not covered in testgrain\Van Pieter\1PH (SW) 41-70\66\VanKampen_uttfiles2_laura38_u000379.xml
+Problem: Token 7 not covered in testgrain\Van Pieter\1PH (SW) 41-70\66\VanKampen_uttfiles2_laura38_u000379.xml
+Problem: Token 14 not covered in testgrain\Van Pieter\1PH (SW) 41-70\66\VanKampen_uttfiles2_laura38_u000379.xml
+Problem: Token 16 not covered in testgrain\Van Pieter\1PH (SW) 41-70\66\VanKampen_uttfiles2_laura38_u000379.xml
